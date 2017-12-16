@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>syncthing.png</file>
+    </qresource>
+</RCC>
